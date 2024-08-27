@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4773217-124C-460E-9140-C77DD7C8318E}|Task1\\Task1.csproj|c:\\users\\alexe\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\csharpeducation\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4773217-124C-460E-9140-C77DD7C8318E}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991DA7D3-99C9-425F-B202-C64C2F00A321}|Phonebook\\Phonebook.csproj|c:\\users\\alexe\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\csharpeducation\\phonebook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991DA7D3-99C9-425F-B202-C64C2F00A321}|Phonebook\\Phonebook.csproj|solutionrelative:phonebook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D488A1-8121-4CC5-9873-D3854D5E0EF0}|TicTacToe\\TicTacToe.csproj|c:\\users\\alexe\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\csharpeducation\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D488A1-8121-4CC5-9873-D3854D5E0EF0}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991DA7D3-99C9-425F-B202-C64C2F00A321}|Phonebook\\Phonebook.csproj|c:\\users\\alexe\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\csharpeducation\\phonebook\\abonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991DA7D3-99C9-425F-B202-C64C2F00A321}|Phonebook\\Phonebook.csproj|solutionrelative:phonebook\\abonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991DA7D3-99C9-425F-B202-C64C2F00A321}|Phonebook\\Phonebook.csproj|c:\\users\\alexe\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\csharpeducation\\phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991DA7D3-99C9-425F-B202-C64C2F00A321}|Phonebook\\Phonebook.csproj|solutionrelative:phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\Task1\\Program.cs",
-              "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "Phonebook.cs",
+              "DocumentMoniker": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\Phonebook\\Phonebook.cs",
+              "RelativeDocumentMoniker": "Phonebook\\Phonebook.cs",
+              "ToolTip": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\Phonebook\\Phonebook.cs",
+              "RelativeToolTip": "Phonebook\\Phonebook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:15:25.683Z",
+              "WhenOpened": "2024-08-25T17:24:28.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\TicTacToe\\Program.cs",
-              "RelativeDocumentMoniker": "TicTacToe\\Program.cs",
-              "ToolTip": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\TicTacToe\\Program.cs",
-              "RelativeToolTip": "TicTacToe\\Program.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAIwGEAAAABAAAA",
+              "Title": "Abonent.cs",
+              "DocumentMoniker": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\Phonebook\\Abonent.cs",
+              "RelativeDocumentMoniker": "Phonebook\\Abonent.cs",
+              "ToolTip": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\Phonebook\\Abonent.cs",
+              "RelativeToolTip": "Phonebook\\Abonent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T17:56:53.213Z",
+              "WhenOpened": "2024-08-25T17:23:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\Phonebook\\Program.cs",
+              "RelativeDocumentMoniker": "Phonebook\\Program.cs",
+              "ToolTip": "C:\\Users\\alexe\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nik\\CSharpEducation\\Phonebook\\Program.cs",
+              "RelativeToolTip": "Phonebook\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:18:36.721Z",
               "EditorCaption": ""
             }
           ]

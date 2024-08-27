@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TicTacToe")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Phonebook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b6073830c426ddcde678155f6087cd952c360b9")]
-[assembly: System.Reflection.AssemblyProductAttribute("TicTacToe")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TicTacToe")]
+[assembly: System.Reflection.AssemblyProductAttribute("Phonebook")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Phonebook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

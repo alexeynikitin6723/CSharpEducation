@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{C9D488A1-8121-4CC5-9873-D3854D5E0EF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{D4773217-124C-460E-9140-C77DD7C8318E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "Task1\Task1.csproj", "{D4773217-124C-460E-9140-C77DD7C8318E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{991DA7D3-99C9-425F-B202-C64C2F00A321}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D4773217-124C-460E-9140-C77DD7C8318E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4773217-124C-460E-9140-C77DD7C8318E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4773217-124C-460E-9140-C77DD7C8318E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991DA7D3-99C9-425F-B202-C64C2F00A321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991DA7D3-99C9-425F-B202-C64C2F00A321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991DA7D3-99C9-425F-B202-C64C2F00A321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991DA7D3-99C9-425F-B202-C64C2F00A321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
