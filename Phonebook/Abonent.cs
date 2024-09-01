@@ -12,7 +12,7 @@ namespace Phonebook
         public string Name { get; set; }
         public override string ToString()
         {
-            return $"{PhoneNumber}:{Name}";
+            return $"{this.PhoneNumber}:{this.Name}";
         }
     }
 }

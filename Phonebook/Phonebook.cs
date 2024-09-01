@@ -14,7 +14,7 @@ namespace Phonebook
 
         public Phonebook()
         {
-            abonents = new List<Abonent>();
+            this.abonents = new List<Abonent>();
             ReadFromFile();
         }
         public static Phonebook GetInstance()
@@ -39,7 +39,7 @@ namespace Phonebook
 
         private void ReadFromFile()
         {
-            if (File.Exists(filePath))
+            if (File.Exists(this.filePath))
             {
                 string[] lines = File.ReadAllLines(filePath);
                 foreach (string line in lines)
