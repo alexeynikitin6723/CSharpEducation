@@ -1,0 +1,15 @@
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\bin\Debug\net6.0\UserManagement.exe
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\bin\Debug\net6.0\UserManagement.deps.json
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\bin\Debug\net6.0\UserManagement.runtimeconfig.json
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\bin\Debug\net6.0\UserManagement.dll
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\bin\Debug\net6.0\UserManagement.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfoInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfo.cs
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\UserManagement.sourcelink.json
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\UserManagement.dll
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\refint\UserManagement.dll
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\UserManagement.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\UserManagement.genruntimeconfig.cache
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\UserManagement\obj\Debug\net6.0\ref\UserManagement.dll
