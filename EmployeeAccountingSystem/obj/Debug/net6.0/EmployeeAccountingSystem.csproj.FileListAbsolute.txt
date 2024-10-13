@@ -1,0 +1,15 @@
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\bin\Debug\net6.0\EmployeeAccountingSystem.exe
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\bin\Debug\net6.0\EmployeeAccountingSystem.deps.json
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\bin\Debug\net6.0\EmployeeAccountingSystem.runtimeconfig.json
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\bin\Debug\net6.0\EmployeeAccountingSystem.dll
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\bin\Debug\net6.0\EmployeeAccountingSystem.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\EmployeeAccountingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\EmployeeAccountingSystem.AssemblyInfoInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\EmployeeAccountingSystem.AssemblyInfo.cs
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\EmployeeAccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\EmployeeAccountingSystem.sourcelink.json
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\EmployeeAccountingSystem.dll
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\refint\EmployeeAccountingSystem.dll
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\EmployeeAccountingSystem.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\EmployeeAccountingSystem.genruntimeconfig.cache
+C:\Users\alexe\OneDrive\Рабочий стол\nik\CSharpEducation\EmployeeAccountingSystem\obj\Debug\net6.0\ref\EmployeeAccountingSystem.dll
